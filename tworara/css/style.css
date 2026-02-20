@@ -1,0 +1,62 @@
+@charset "utf-8" ;
+
+:root {
+    --w_p : 250px;
+    --pre : 'Pretendard';
+    --fontb : '1945b';
+    --fontr : '1945r';
+    --colorwhite : #f0f0f0;
+    --black : #343434;
+    --point1 : #687C5E;
+    --point2 : #96A78D;
+    --point3 : #B6CEB4;
+    --point4 : #D9E9CF;
+    --subgray :#909290
+}
+
+.wrap{
+    color: #343434;
+}
+
+.inner {
+    width: 80%;
+    height: 100%;
+    /* padding-left: var(--w_p);
+    padding-right: var(--w_p); */
+    
+}
+
+
+.menubox{
+    display: none;
+}
+
+
+/* fb */
+
+
+.fb{
+    width: 60px;
+    height: 60px;
+    background-color: var(--point1);
+    border-radius: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+
+    cursor: pointer;
+
+    z-index: 9999;
+}
+
+.fb i{
+    color: var(--colorwhite);
+    transform: scale(1.4);
+}

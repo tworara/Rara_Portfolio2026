@@ -1,0 +1,497 @@
+<section class="like" id="like">
+    <div class="inner">
+
+        <div class="like_left swiper likeSwiper">
+            <ul class="likeimg swiper-wrapper">
+                <li class="likeimg_otaku otaku swiper-slide">
+                    <img src="img/raralikeotaku.svg" alt="">
+                </li><!-- //.likeimg_otaku -->
+                <li class="likeimg_kt kt swiper-slide">
+                    <img src="img/raralikekt.svg" alt="">
+                </li><!-- //.likeimg_kt -->
+                <li class="likeimg_v v swiper-slide">
+                    <img src="img/raralikev.svg" alt="">
+                </li><!-- //.likeimg_v -->
+                <li class="likeimg_cafe cafe swiper-slide">
+                    <img src="img/raralikecafe.svg" alt="">
+                </li><!-- //.likeimg_cafe -->
+            </ul><!-- //.likeimg -->
+        </div><!-- left -->
+        <div class="like_right">
+            <ul class="likemenu">
+                <li class="likemenu_otaku otaku ">
+                    <h3>11년째 쉬지 않는 덕질</h3>
+                </li><!-- //.likemenu_otaku -->
+                <li class="likemenu_kt kt">
+                    <h3>스포츠는 역시 야구!</h3>
+                </li><!-- //.likemenu_kt -->
+                <li class="likemenu_v v">
+                    <h3>엉뚱하지만 그래도 착해요</h3>
+                </li><!-- //.likemenu_v -->
+                <li class="likemenu_cafe cafe ">
+                    <h3>부끄러움은 나의 친구</h3>
+                </li><!-- //.likemenu_cafe -->
+            </ul><!-- //.likemenu -->
+        </div><!-- like_right -->
+
+    </div><!-- //.inner -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+</section><!-- //.like -->
+
+<section class="good" id="good">
+    <div class="inner">
+        <div class="good_msgbox_screen">
+            <div class="good_msgbox_1">
+                <div class="good_msgbox">
+                    <div class="good_msgbox_textbox">
+                        <div class="good_msgbox_title">
+                            <h6>에너지</h6>
+                        </div><!-- //.good_msgbox_title -->
+                        <div class="good_msgbox_text">
+                            <p>주변에 긍정적인 에너지를 전하며, 함께 있는 사람들에게 편안함을 줍니다.</p>
+                        </div><!-- //.good_msgbox_text -->
+                    </div><!-- //.good_msgbox_textbox -->
+                </div><!-- //.good_msgbox -->
+                <img src="img/raragoodmsgbox1.svg" alt="">
+            </div><!-- good_msgbox_1 -->
+            <div class="good_msgbox_2">
+                <div class="good_msgbox">
+                    <div class="good_msgbox_textbox">
+                        <div class="good_msgbox_title">
+                            <h6>책임감</h6>
+                        </div><!-- //.good_msgbox_title -->
+                        <div class="good_msgbox_text">
+                            <p>맡은 일에 끝까지 책임을 다하며, 어떤 상황에서도 신뢰 받는 사람이 되고자 합니다.</p>
+                        </div><!-- //.good_msgbox_text -->
+                    </div><!-- //.good_msgbox_textbox -->
+                </div><!-- //.good_msgbox -->
+                <img src="img/raragoodmsgbox2.svg" alt="">
+            </div><!-- good_msgbox_2 -->
+            <div class="good_msgbox_3">
+                <div class="good_msgbox">
+                    <div class="good_msgbox_textbox">
+                        <div class="good_msgbox_title">
+                            <h6>긍정적</h6>
+                        </div><!-- //.good_msgbox_title -->
+                        <div class="good_msgbox_text">
+                            <p>어떤 상황에서도 밝은 태도로 문제를 해결하는데 있어 유연하게 받아들입니다.</p>
+                        </div><!-- //.good_msgbox_text -->
+                    </div><!-- //.good_msgbox_textbox -->
+                </div><!-- //.good_msgbox -->
+                <img src="img/raragoodmsgbox3.svg" alt="">
+            </div><!-- good_msgbox_3 -->
+        </div><!-- //.good_msgbox_screen -->
+        <img src="img/raragoodtree.svg" alt="">
+    </div><!-- //.inner -->
+</section><!-- //.good -->
+
+<section class="tmi" id="tmi">
+    <div class="inner">
+
+    </div><!-- //.inner -->
+</section><!-- //.tmi -->
+
+
+<div id="tmi_r_be">
+    <p class="r_textbox">MBTI 물어보기</p><!-- //.r_textbox -->
+    <div class="r_imgbox"><img src="img/raratmicat.svg" alt=""></div>
+</div><!-- //.tmi_r_be -->
+
+-> tmi 부분 질문 전 인덱스
+
+
+
+
+<section class="tmi swiper-slide" id="tmi">
+    <div class="inner">
+        <div class="tmisection_right tmimbti">
+            <div class="tmichatbox">
+                <div class="tmichattext"><img src="img/raratmirightbox1.svg" alt="" class="tmibefore"><img
+                        src="img/raratmirightbox1after.svg" alt="" class="tmiafter"></div><!-- //.tmichattext -->
+                <div class="tmichatphoto"><img src="img/raratmicat.svg" alt=""></div>
+                <!-- //.tmichatphoto -->
+            </div><!-- //.tmichatbox -->
+        </div><!-- //.tmimbti tmisection_right-->
+        <div class="tmisection_left tmimbti">
+            <div class="tmichatbox">
+                <div class="tmichatphoto"><img src="img/raratmiphotorara.svg" alt=""></div>
+                <!-- //.tmichatphoto -->
+                <div class="tmichattext"><img src="img/Union-1.svg" alt=""></div><!-- //.tmichattext -->
+            </div><!-- //.tmichatbox -->
+        </div><!-- //.tmimbti tmisection_left-->
+        <div class="tmisection_right tmichange">
+            <div class="tmichatbox">
+                <div class="tmichattext"><img src="img/Union-1.svg" alt=""></div><!-- //.tmichattext -->
+                <div class="tmichatphoto"><img src="img/raratmicat.svg" alt=""></div>
+                <!-- //.tmichatphoto -->
+            </div><!-- //.tmichatbox -->
+        </div><!-- //.tmichange tmisection_right-->
+
+        <div class="tmisection_left tmichange">
+            <div class="tmichatbox">
+                <div class="tmichatphoto"><img src="img/raratmiphotorara.svg" alt=""></div>
+                <!-- //.tmichatphoto -->
+                <div class="tmichattext"><img src="img/Union-1.svg" alt=""></div><!-- //.tmichattext -->
+            </div><!-- //.tmichatbox -->
+        </div><!-- //.tmichange tmisection_left-->
+        <div class="tmisection_right tmiif">
+            <div class="tmichatbox">
+                <div class="tmichattext"><img src="img/Union-1.svg" alt=""></div><!-- //.tmichattext -->
+                <div class="tmichatphoto"><img src="img/raratmicat.svg" alt=""></div>
+                <!-- //.tmichatphoto -->
+            </div><!-- //.tmichatbox -->
+        </div><!-- //.tmiif tmisection_right-->
+        <div class="tmisection_left tmiif">
+
+            <div class="tmichatbox">
+                <div class="tmichatphoto"><img src="img/raratmiphotorara.svg" alt=""></div>
+                <!-- //.tmichatphoto -->
+                <div class="tmichattext"><img src="img/Union-3.svg" alt=""></div><!-- //.tmichattext -->
+            </div><!-- //.tmichatbox -->
+
+        </div><!-- //.tmiif tmisection_left-->
+    </div><!-- //.inner -->
+</section><!-- //.tmi -->
+
+
+-> 기존 tmi 섹션
+
+
+<style>
+    #tmi_r_be {
+        display: flex;
+        height: 80px;
+        width: 60%;
+        gap: 12px;
+
+        justify-content: right;
+        align-items: center;
+    }
+
+    .r_textbox {
+        background-image: url(img/raratmirightbox1.svg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+
+        padding: 20px 30px;
+        padding-right: 38px;
+
+    }
+
+    /* tmi 부분 질문 전 css */
+</style>
+
+
+/*
+
+$('.like_right .likemenu li').on('click', function () {
+
+// 클릭한 li의 클래스 목록
+let classList = $(this).attr('class').split(' ');
+
+// otaku / kt / v / cafe 중 하나 찾기
+let targetClass = classList.find(c =>
+['otaku', 'kt', 'v', 'cafe'].includes(c)
+);
+
+// 같은 클래스를 가진 swiper-slide index 찾기
+let targetIndex = $('.like_left .swiper-slide.' + targetClass).index();
+
+// 해당 슬라이드로 이동
+swiper.slideTo(targetIndex);
+});
+// var likeOn = () */
+
+
+
+/* $('.likemenu li').click(function(){
+$(this).addClass('on')
+$(this).siblings().removeClass('on')
+
+$('likeimg li').addClass('on')
+$('likeimg li').removeClass('on')
+})
+*/
+
+
+
+
+<div class="tmi_right n1">
+    <div id="tmi_rightbox">
+        <p class="trb_text ">MBTI 물어보기</p><!-- //.trb_text -->
+        <div class="trb_img"><img src="img/raratmicat.svg" alt=""></div><!-- //.trb_img -->
+    </div><!-- //.tmi_rightbox -->
+</div><!-- //.tmi_right -->
+<div class="tmi_left n1">
+
+    <div id="tmi_leftbox">
+        <div class="tlb_img"><img src="img/raratmiphotorara.svg" alt=""></div><!-- tlb_img -->
+        <p class="tlb_text">ENFP라고 주장하는 <span>INFP</span>야!</p><!-- //.tlb_text -->
+    </div><!-- //.tmi_leftbox -->
+
+
+</div><!-- //.tmi_left -->
+<div class="tmi_right n2">
+    <div id="tmi_rightbox">
+        <p class="trb_text">직군을 자주 바꾼 이유 물어보기</p><!-- //.trb_text -->
+        <div class="trb_img"><img src="img/raratmicat.svg" alt=""></div><!-- //.trb_img -->
+    </div><!-- //.tmi_rightbox -->
+</div><!-- //.tmi_right -->
+<div class="tmi_left n2">
+
+    <div id="tmi_leftbox">
+        <div class="tlb_img"><img src="img/raratmiphotorara.svg" alt=""></div><!-- tlb_img -->
+        <p class="tlb_text"><span>나에게 맞는 일</span>을 찾고 싶었어. 많은 경험 중에서, 하고 있어도 또 하고 싶던 일은 이번이 처음이었어. 마치 썸타는 것처럼 마음이
+            두근거리더라.</p><!-- //.tlb_text -->
+    </div><!-- //.tmi_leftbox -->
+
+
+</div><!-- //.tmi_left -->
+<div class="tmi_right n3">
+    <div id="tmi_rightbox">
+        <p class="trb_text">미래에 어떤 사람이 되고 싶은지 물어보기</p><!-- //.trb_text -->
+        <div class="trb_img"><img src="img/raratmicat.svg" alt=""></div><!-- //.trb_img -->
+    </div><!-- //.tmi_rightbox -->
+</div><!-- //.tmi_right -->
+<div class="tmi_left n3">
+
+    <div id="tmi_leftbox">
+        <div class="tlb_img"><img src="img/raratmiphotorara.svg" alt=""></div><!-- tlb_img -->
+        <p class="tlb_text"><span>다재다능한 디자이너</span>가 되고싶어. 타팀과 소통할때 대화가 막히지 않고 수월하게 소통할 수 있도록!</p><!-- //.tlb_text -->
+    </div><!-- //.tmi_leftbox -->
+
+
+</div><!-- //.tmi_left -->
+
+
+
+
+tmire
+
+
+
+
+
+
+
+><style>
+    /* section.tmi .inner>div {
+    width: 100%;
+    padding: 12px 0;
+
+    display: flex;
+}
+
+section.tmi .inner>div.tmi_right {
+    justify-content: right;
+}
+
+section.tmi .inner>div.tmi_left {}
+
+
+#tmi_rightbox {
+    display: flex;
+  height: 80px; 
+    width: 60%;
+    gap: 12px;
+
+    justify-content: right;
+    align-items: center;
+}
+
+.trb_text {
+
+    background-image: url(../img/raratmirightbox1.svg);
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-position: right;
+
+    padding: 20px 30px;
+    padding-right: 38px;
+
+    width: inherit;
+     text-align: right; 
+    text-align: center;
+
+}
+
+.trb_img {
+    width: 20%;
+    height: 100%;
+}
+
+.trb_img img {
+    width: 70px;
+    height: 70px;
+}
+
+
+#tmi_leftbox {
+    display: flex;
+
+    width: 60%;
+    gap: 12px;
+
+
+    align-items: center;
+} */
+    /* 
+.tlb_text {
+    background-image: url(../img/raratmileftbox1.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+
+    padding: 20px 30px;
+    padding-left: 38px;
+
+    width: inherit;
+}
+
+.tlb_text span {
+    font-weight: 700;
+}
+
+.tlb_img img {
+    width: 70px;
+    height: 70px;
+
+
+}*/
+
+
+    /* 
+section#tmi div.n2 .trb_text {
+    background-image: url(../img/raratmirightbox2.svg);
+    padding-left: 25px;
+ 
+
+}
+
+
+section#tmi div.n2 .tlb_text {
+    background-image: url(../img/raratmileftbox2.svg);
+
+    line-height: 150%;
+    background-position: left;
+
+
+    width: inherit;
+
+} */
+
+
+    /* section#tmi div.n3 .trb_text {
+    background-image: url(../img/raratmirightbox2.svg);
+    /* width: 130%; */
+    /* height: 110%; */
+
+    /* background-image: url(../img/raratmirightbox2after.svg); */
+
+    /* background-image: url(../img/raratmirightbox3atfer.svg); */
+    /* height: inherit;
+width: inherit; */
+
+
+
+
+    /* section#tmi div.n3 .tlb_text {
+    background-image: url(../img/raratmileftbox3.svg);
+
+    line-height: 150%;
+    width: inherit;
+
+    background-position: left;
+
+} */
+
+    /* 
+#tmi .n1 .trb_text.on {
+    background-image: url(../img/raratmirightbox1after.svg);
+
+   
+}
+
+#tmi .n2 .trb_text.on {
+    background-image: url(../img/raratmirightbox2after.svg);
+
+   
+}
+
+#tmi .n3 .trb_text.on {
+    background-image: url(../img/raratmirightbox2after.svg);
+
+
+
+} */
+
+    /* 
+*{
+    background-image: url(../img/raratmirightbox1after.svg);
+    background-image: url(../img/raratmirightbox1.svg);
+} */
+</style>
+
+
+<a href="../Portfolio/index.html" class="fb">
+    <i class="fa-solid fa-house"></i>
+</a><!-- //.fb -->
+
+
+
+
+
+
+<div class="menubox">
+    <a href="#like" class="menubox_like" id="menubox_like"></a><!-- //.menubox_like -->
+    <a href="#good" class="menubox_good" id="menubox_good"></a><!-- //.menubox_good -->
+    <a href="#v" class="menubox_v" id="menubox_v"></a><!-- //.menubox_v -->
+    <a href="#cafe" class="menubox_cafe" id="menubox_cafe"></a><!-- //.menubox_cafe -->
+</div><!-- //.menubox -->w
+
+
+
+
+
+
+스와이퍼
+
+<script>
+    function setMenuActiveById(id) {
+        $('.menubox > div').removeClass('active');
+        $('.menubox > div[data-target="' + id + '"]').addClass('active');
+    }
+
+    // 메뉴 클릭 → 해당 id 슬라이드로 이동 + active
+    $('.menubox > div').on('click', function () {
+        const targetId = $(this).data('target'); // like / good / tmi
+
+        // 슬라이드 인덱스 구하기 (swiper-slide 기준으로)
+        const index = $('.rara_Swiper .swiper-slide').index($('#' + targetId));
+
+        // 메뉴 active 즉시 반영
+        setMenuActiveById(targetId);
+
+        // loop:true 이므로 slideToLoop 사용
+        swiper.slideToLoop(index, 600);
+    });
+
+    // 스와이프/네비버튼으로 넘어갈 때도 메뉴 active 자동 갱신
+    swiper.on('slideChange', function () {
+        const current = swiper.realIndex; // loop일 때는 realIndex가 정답
+        const currentId = $('.rara_Swiper .swiper-slide').eq(current).attr('id');
+        setMenuActiveById(currentId);
+    });
+
+    // 첫 로딩 시 active 세팅
+    $(function () {
+        const current = swiper.realIndex;
+        const currentId = $('.rara_Swiper .swiper-slide').eq(current).attr('id');
+        setMenuActiveById(currentId);
+    });
+
+</script>

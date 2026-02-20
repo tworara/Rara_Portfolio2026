@@ -1,0 +1,197 @@
+@charset "utf-8";
+
+
+section.tmi {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.tmi .inner {
+    width: 80%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+
+
+}
+
+
+
+/* --- */
+
+section.tmi .inner>div {
+    width: 100%;
+    padding: 5px 0;
+    height: 100%;
+}
+
+
+.tmia {
+    width: 60%;
+    display: flex;
+    gap: 16px;
+    justify-content: left;
+    align-items: center;
+}
+
+.tmia_chat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url(../img/raratmileftbox1.svg);
+
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    /* padding: 2% 4%; */
+    padding: 8% 10%;
+    background-position: center;
+
+    /* width: 55%; */
+}
+
+.tmia_chat p {
+    /* font-size: 1.1rem; */
+    font-weight: 600;
+    /* line-height: 1.1rem; */
+}
+
+.tmia_chat p span {
+    font-weight: 800;
+}
+
+.tmil2 .tmia_chat {
+
+    background-image: url(../img/raratmileftbox2.svg);
+
+    background-size: contain;
+
+    /* padding: 7% 6%; */
+    /* padding: 7.8% 9%; */
+    padding: 7% 12%;
+    padding-left: 6%;
+
+    background-position: left;
+}
+
+.tmil2 .tmia_chat p, .tmil3 .tmia_chat p {
+    line-height: 150%;
+
+}
+
+.tmil3 .tmia_chat{
+    background-image: url(../img/raratmileftbox3.svg);
+    padding: 5.2% 10%;
+    padding-left: 6%;
+    background-position: left;
+}
+
+
+/* ------------ */
+
+.tmi_right{
+    display: flex;
+    justify-content: right;
+
+}
+/* .tmi_left{
+    display: flex;
+    justify-content: left;
+} */
+
+.tmiq {
+    width: 60%;
+
+    display: flex;
+    gap: 16px;
+    justify-content: right;
+    align-items: center;
+}
+
+
+.tmiq_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 8px;
+    border: 2px solid var(--point3);
+    background-color: var(--point3);
+
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    padding: 2% 4%;
+    
+
+}
+
+.tmiq_btn p {
+    opacity: 70%;
+    font-weight: 700;
+
+}
+
+.tmiq_btn:hover {
+    border: 2px solid var(--point4);
+    background-color: var(--point4);
+
+}
+
+.tmiq_btn:hover p {
+    opacity: 100%;
+}
+
+.tmiq_btn.on {
+    background-image: url(../img/raratmirightbox1.svg);
+    border: none;
+    background-color: transparent;
+    border-radius: 0;
+
+    padding: 4% 7%;
+    padding-right: 8%;
+    background-position: center;
+
+}
+
+.tmiq_btn.on p {
+    opacity: 100%;
+}
+
+.tmir2 .tmiq_btn.on {
+    background-image: url(../img/raratmirightbox2.svg);
+
+}
+
+.tmir3 .tmiq_btn.on {
+    background-image: url(../img/raratmirightbox2.svg);
+}
+
+
+
+.tmiq_img,
+.tmia_img {
+    /*  width: 10%;
+    height: 100%; */
+
+    width: 70px;
+    height: 70px;
+
+    flex-shrink: 0;
+
+
+}
+
+.tmiq_img img,
+.tmia_img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

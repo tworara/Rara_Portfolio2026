@@ -1,0 +1,28 @@
+@charset "utf-8" ;
+
+:root {
+    --w_p : 250px;
+    --pre : 'Pretendard';
+    --fontb : '1945b';
+    --fontr : '1945r';
+    --colorwhite : #f0f0f0;
+    --black : #343434;
+    --point1 : #687C5E;
+    --point2 : #96A78D;
+    --point3 : #B6CEB4;
+    --point4 : #D9E9CF;
+}
+
+.wrap{
+    color: #343434;
+}
+
+.inner {
+    width: 100%;
+    height: 100%;
+    padding-left: var(--w_p);
+    padding-right: var(--w_p);
+    
+}
+
+
